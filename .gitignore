@@ -5,7 +5,7 @@
 # Assembled binaries and object directories
 obj/
 a.out
-*.bin
+*.binn
 *.a26
 
 # Add in special Atari 7800-based binaries for good measure
